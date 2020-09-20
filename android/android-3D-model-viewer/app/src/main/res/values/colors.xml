@@ -1,0 +1,22 @@
+<resources>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="black">#000000</color>
+    <color name="colorPrimary">#37474F</color>
+    <color name="colorPrimaryDark">#263238</color>
+    <color name="colorPrimaryReallyDark">#131B1F</color>
+    <color name="white">#ffffff</color>
+    <color name="colorAccent">#F44336</color>
+
+
+    <color name="indigo">#3F51B5</color>
+    <color name="teal">#009688</color>
+    <color name="darkDeepOrange">#E64A19</color>
+    <color name="darkGreen">#388E3C</color>
+    <color name="darkBlueGrey">#455A64</color>
+    <color name="darkRed">#D32F2F</color>
+
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#727272</color>
+
+</resources>

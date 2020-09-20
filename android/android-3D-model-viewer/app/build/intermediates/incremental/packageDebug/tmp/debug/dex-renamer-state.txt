@@ -1,0 +1,4 @@
+#Tue Mar 31 23:31:20 IST 2020
+base.0=/Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

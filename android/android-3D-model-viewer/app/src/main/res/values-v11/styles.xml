@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+        Base application theme for API 11+. This theme completely replaces
+        AppBaseTheme from res/values/styles.xml on API 11+ devices.
+
+    -->
+    <style name="AppBaseTheme" parent="Theme.AppCompat.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style>
+
+    <style name="FullscreenTheme" parent="Theme.AppCompat">
+        <item name="actionBarStyle">@style/FullscreenActionBarStyle</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="buttonBarStyle">?attr/buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?attr/buttonBarButtonStyle</item>
+    </style>
+
+    <style name="FullscreenActionBarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="background">@color/black_overlay</item>
+    </style>
+
+</resources>

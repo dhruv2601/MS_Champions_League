@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:2:1-87:12
+INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:2:1-87:12
+INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:2:1-87:12
+INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:2:1-87:12
+MERGED from [com.yarolegovich:lovely-dialog:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f96c729799447fcbb6c8a455c37d6837/lovely-dialog-1.1.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-v4:27.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5b2cd81bed9ac428f39b947ab5147f98/support-v4-27.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.microsoft.azure.android:azure-storage-android:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/1c4704a637776b03050844584d8208ef/azure-storage-android-2.0.0/AndroidManifest.xml:11:1-20:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/1751590356a59f4e1594bb776040d734/appcompat-v7-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:2:1-24:12
+MERGED from [com.camerakit:jpegkit:0.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5bfc3f427117668d0a8f9df13351fe0b/jpegkit-0.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/95c9b98808aa674376ee287c66351529/Android-SpinKit-1.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/d757e31921e8dbff5762e15ca0920632/support-media-compat-27.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/4c12951635ba4baa48f5509585c642d7/support-fragment-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/feba490d2840b4b04955d281bf0e7652/support-core-utils-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/334897bd683091230adb23f7cf9011f1/animated-vector-drawable-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/762d0a892d48c736f82b2442a3c524c9/support-vector-drawable-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/76d3ac8123584e8efa203c6a48aabf56/support-core-ui-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/720e92815edcdbf337dfc8a11e4b8e54/support-compat-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/ed8011cbbf34e0c37179396b3354c64a/runtime-1.0.3/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:2:1-87:12
+INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:2:1-87:12
+INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:2:1-87:12
+	package
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:4:5-41
+		INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:6:5-32
+		INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:5:5-29
+		INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:8:5-10:35
+	android:glEsVersion
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:9:9-41
+	android:required
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:10:9-32
+uses-permission#android.permission.CAMERA
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:12:5-65
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:7:5-65
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:12:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:14:5-60
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:11:5-13:36
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:11:5-13:36
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:14:19-57
+uses-permission#android.permission.INTERNET
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:16:5-67
+MERGED from [com.microsoft.azure.android:azure-storage-android:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/1c4704a637776b03050844584d8208ef/azure-storage-android-2.0.0/AndroidManifest.xml:18:5-67
+MERGED from [com.microsoft.azure.android:azure-storage-android:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/1c4704a637776b03050844584d8208ef/azure-storage-android-2.0.0/AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:16:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:17:5-79
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:18:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:19:5-81
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:9:5-81
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:19:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:20:5-71
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:8:5-71
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:20:22-68
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:22:22-76
+uses-feature#android.hardware.location.gps
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:24:5-66
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:24:19-63
+application
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:26:5-85:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+	android:requestLegacyExternalStorage
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:30:9-52
+	android:label
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:27:9-45
+	android:theme
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:31:9-40
+	android:networkSecurityConfig
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:29:9-69
+activity#org.andresoviedo.app.model3D.CameraActivity
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:32:9-38:20
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:32:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:36:27-74
+activity#org.andresoviedo.app.model3D.LocalModalFetcherAct
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:39:9-45:20
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:39:19-83
+activity#org.andresoviedo.app.model3D.ModelFetcherAct
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:46:9-54:20
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:46:19-78
+activity#org.andresoviedo.app.model3D.MainActivity
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:55:9-65:20
+	android:label
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:57:13-45
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:56:13-69
+activity#org.andresoviedo.app.model3D.view.MenuActivity
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:66:9-69:86
+	android:parentActivityName
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:69:13-83
+	android:label
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:68:13-56
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:67:13-74
+activity#org.andresoviedo.app.model3D.view.DemoActivity
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:70:9-73:86
+	android:parentActivityName
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:73:13-83
+	android:label
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:72:13-56
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:71:13-74
+activity#org.andresoviedo.app.util.view.TextActivity
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:74:9-77:86
+	android:parentActivityName
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:77:13-83
+	android:label
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:76:13-56
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:75:13-71
+activity#org.andresoviedo.app.model3D.view.ModelActivity
+ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:78:9-84:20
+	android:parentActivityName
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:81:13-83
+	android:label
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:80:13-57
+	android:name
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml:79:13-75
+uses-sdk
+INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml
+MERGED from [com.yarolegovich:lovely-dialog:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f96c729799447fcbb6c8a455c37d6837/lovely-dialog-1.1.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.yarolegovich:lovely-dialog:1.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/f96c729799447fcbb6c8a455c37d6837/lovely-dialog-1.1.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:27.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5b2cd81bed9ac428f39b947ab5147f98/support-v4-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5b2cd81bed9ac428f39b947ab5147f98/support-v4-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.microsoft.azure.android:azure-storage-android:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/1c4704a637776b03050844584d8208ef/azure-storage-android-2.0.0/AndroidManifest.xml:14:38-16:41
+MERGED from [com.microsoft.azure.android:azure-storage-android:2.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/1c4704a637776b03050844584d8208ef/azure-storage-android-2.0.0/AndroidManifest.xml:14:38-16:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/1751590356a59f4e1594bb776040d734/appcompat-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/1751590356a59f4e1594bb776040d734/appcompat-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/c8390c608d9ebd3960e8c9af3469d9e0/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:5:5-44
+MERGED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:5:5-44
+MERGED from [com.camerakit:jpegkit:0.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5bfc3f427117668d0a8f9df13351fe0b/jpegkit-0.1.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.camerakit:jpegkit:0.1.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/5bfc3f427117668d0a8f9df13351fe0b/jpegkit-0.1.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/95c9b98808aa674376ee287c66351529/Android-SpinKit-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ybq:Android-SpinKit:1.4.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/95c9b98808aa674376ee287c66351529/Android-SpinKit-1.4.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/d757e31921e8dbff5762e15ca0920632/support-media-compat-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.0] /Users/apple/.gradle/caches/transforms-2/files-2.1/d757e31921e8dbff5762e15ca0920632/support-media-compat-27.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/4c12951635ba4baa48f5509585c642d7/support-fragment-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/4c12951635ba4baa48f5509585c642d7/support-fragment-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/feba490d2840b4b04955d281bf0e7652/support-core-utils-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/feba490d2840b4b04955d281bf0e7652/support-core-utils-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/334897bd683091230adb23f7cf9011f1/animated-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/334897bd683091230adb23f7cf9011f1/animated-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/762d0a892d48c736f82b2442a3c524c9/support-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/762d0a892d48c736f82b2442a3c524c9/support-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/76d3ac8123584e8efa203c6a48aabf56/support-core-ui-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/76d3ac8123584e8efa203c6a48aabf56/support-core-ui-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/720e92815edcdbf337dfc8a11e4b8e54/support-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/apple/.gradle/caches/transforms-2/files-2.1/720e92815edcdbf337dfc8a11e4b8e54/support-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/ed8011cbbf34e0c37179396b3354c64a/runtime-1.0.3/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/apple/.gradle/caches/transforms-2/files-2.1/ed8011cbbf34e0c37179396b3354c64a/runtime-1.0.3/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Hackathon/Mish/android/android-3D-model-viewer/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera.front
+ADDED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:15:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:18:9-57
+uses-feature#android.hardware.microphone
+ADDED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [com.camerakit:camerakit:1.0.0-beta3.11] /Users/apple/.gradle/caches/transforms-2/files-2.1/b413c7ceb73509841ac6d5ed980f7233/camerakit-1.0.0-beta3.11/AndroidManifest.xml:21:9-51
